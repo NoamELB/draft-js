@@ -1962,6 +1962,10 @@ pre code.hljs.css {
 .docMainWrapper .mainContainer .wrapper .post h6 {
   font-weight: bold;
 }
+
+.buttons-unit .button {
+  text-transform: none;
+}
 /**
  * Draft v0.10.4
  *
